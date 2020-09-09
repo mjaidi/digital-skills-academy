@@ -10,7 +10,7 @@ const IndexPage = () => (
       <h5>Coming Soon</h5>
       <h1>Digital Skills Academy</h1>
 
-      <p>info@digital-skills-academy.com</p>
+      <p>contact@digital-skills-academy.com</p>
     </div>
   </Layout>
 )
